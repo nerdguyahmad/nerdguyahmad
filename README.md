@@ -1,16 +1,21 @@
-### Hi there 👋
+### What's Up! 👋
 
-<!--
-**nerdguyahmad/nerdguyahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmad aka NerdGuyAhmad. I'm a intermediate Python developer, A discord expert and a discord bot developer.
 
-Here are some ideas to get you started:
+### Some random things about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **[WEEBOT](https://dsc.gg/weebot)** & **Sentry (Coming soon...)**
+
+- 🌱 I’m currently learning **advanced Python stuff.**
+
+- 👯 I’m looking to collaborate on **discord bot projects**
+
+- 📫 How to reach me: **[Discord](https://discord.gg): 
+nerdguyahmad#3195**
+- 😄 Pronouns: **He/him**
+
+- ⚡ Fun fact: **I'm a verified bot developer on discord.**
+
+
+> *Happiness can be found even in the darkest of times, If one only remembers; to turn on the lights.*  
+*- Albus Dumbledore*
