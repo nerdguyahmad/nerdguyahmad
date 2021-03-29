@@ -4,7 +4,7 @@ I'm Ahmad aka NerdGuyAhmad. I'm a intermediate Python developer, A discord exper
 
 ### Some random things about me
 
-- 🔭 I’m currently working on **[WEEBOT](https://dsc.gg/weebot)** & Working on Sentry with @Wiktor34
+- 🔭 I’m currently working on **[WEEBOT](https://dsc.gg/weebot)**
 
 - 🌱 I’m currently learning **advanced Python stuff.**
 
