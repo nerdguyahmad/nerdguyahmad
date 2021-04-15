@@ -1,16 +1,18 @@
 ### What's Up! 👋
 
-I'm Ahmad aka NerdGuyAhmad. I'm a intermediate Python developer, A discord expert and a discord bot developer.
+I'm a dry person living in my own world.
 
-### Some random things about me
+### What I do
 
-- 🔭 I’m currently working on **[WEEBOT](https://dsc.gg/weebot)**
+I code in Python, and I love to develop discord bots. I'm a verified bot developer on Discord.
+
+- 🔭 I’m currently working on **[WEEBOT](https://dsc.gg/weebot)** and Util (Coming Soon...)
 
 - 🌱 I’m currently learning **advanced Python stuff.**
 
 - 👯 I’m looking to collaborate on **discord bot projects**
 
-- 📫 How to reach me: **[Discord](https://discord.gg): 
+- 📫 How to reach me: **[Discord](https://dsc.bio/nga): 
 nerdguyahmad#3195**
 - 😄 Pronouns: **He/him**
 
