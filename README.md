@@ -8,7 +8,14 @@
     <img src=https://shields.io/badge/Skill-Web_Developer_(Intermediate)-green>
     <img src=https://shields.io/badge/Skill-C++_(Novice)-purple>
     <br>
+    <img src=https://shields.io/badge/Pronouns-He/him-9cf>
+    <img src=https://shields.io/badge/Age-14-9cf>
+    <img src=https://shields.io/badge/Location-Pakistan-9cf>
+    <img src=https://shields.io/badge/Favorite_Language-Python-9cf>
+    <img src=https://shields.io/badge/Favirote_Library-Discord.py-9cf>
+    <br>
     <img src=https://shields.io/badge/Achievement-Discord_Verified_Bot_Developer-blue>
+    <br>
     <img src=https://shields.io/badge/Current_Status-Available-success>
   </p>
   <h1 align="center">I :heart: code.</h3>
