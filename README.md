@@ -10,7 +10,6 @@
     <br>
     <img src=https://shields.io/badge/Achievement-Discord_Verified_Bot_Developer-blue>
     <img src=https://shields.io/badge/Current_Status-Available-success>
-    <img src=https://shields.io/badge/Current_Status-Available-success>
   </p>
   <h1 align="center">I :heart: code.</h3>
   <p align="center"><strong><q><i>Testing leads to failure, and failure leads to understanding.</q></strong> - Burt Rutan</i></h3>
