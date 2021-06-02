@@ -17,11 +17,9 @@
 </div>
 
 ## 💁 About Me
-
 Hi, I'm Ahmad. I go by He/Him. I'm 14 and I'm just a casual python developer who likes to make useful stuff. I'm decent in discord.py and like to code discord bots.
 
 ## 💼 Projects
-
 Here are some of my (current) projects I'm working on
 
 ### 🔐 Closed source
@@ -30,7 +28,6 @@ Here are some of my (current) projects I'm working on
 
 ### 📖 Open source
 No major projects yet. I plan to make an open source bot soon. You can explore my public repositories in the mean time.
-
 
 ## 👀 Looking for contribute
 I'm currently looking to contribute in Discord bots.
@@ -71,11 +68,11 @@ class Profile:
         "discord": {
             "response": "fast",
             "username": "nerdguyahmad#3195"
-          }
+          },
         "email": {
             "response": "slow",
             "username": "nerdguyahmad.contact@gmail.com"
-          }
+          },
        "instagram": {
           "response": "medium",
           "username": "nerdguyahmad"
