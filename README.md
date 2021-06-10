@@ -23,8 +23,8 @@ Hi, I'm Ahmad. I go by He/Him. I'm 14 and I'm just a casual python developer who
 Here are some of my (current) projects I'm working on
 
 ### 🔐 Closed source
-- [WEEBOT](https://dsc.gg/weebot) (Verified Discord Bot) - (Will discontinue in July 2021 and will be replaced with Util bot)
-- Util (Discord Bot) - In development, Planned to be released in July 2021. (Invite not available yet.)
+- [WEEBOT](https://dsc.gg/weebot) (Verified Discord Bot) - (Discontinued as of 10th June 2021)
+- [Util](https://dsc.gg/util) (Discord Bot) - A feature rich server utility discord bot.
 
 ### 📖 Open source
 No major projects yet. I plan to make an open source bot soon. You can explore my public repositories in the mean time.
