@@ -27,7 +27,7 @@ Here are some of my (current) projects I'm working on
 - [Util](https://dsc.gg/util) (Discord Bot) - A feature rich server utility discord bot.
 
 ### 📖 Open source
-No major projects yet. I plan to make an open source bot soon. You can explore my public repositories in the mean time.
+- [Starbot](https://github.com/nerdguyahmad/starbot) (Discord bot) - A feature rich and powerful starboards managing discord bot.
 
 ## 👀 Looking for contribute
 I'm currently looking to contribute in Discord bots and relevant projects.
