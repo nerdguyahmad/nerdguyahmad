@@ -17,7 +17,7 @@
 </div>
 
 ## 💁 About Me
-Hi, I'm Ahmad. I go by He/Him. I'm 14 and I'm just a casual python developer who likes to make useful stuff. I'm decent in discord.py and like to code discord bots.
+Hi, I'm Ahmad. I go by He/Him. I'm 14 and I'm just a casual python developer who likes to make useful stuff. I'm decent in discord.py and like to code discord bots. Oh and I'm a discord enthuasist.
 
 ## 💼 Projects
 Here are some of my (current) projects I'm working on
