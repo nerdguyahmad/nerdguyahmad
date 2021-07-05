@@ -1,8 +1,5 @@
 <div>
   <p align="center">
-    <img src="https://github.com/nerdguyahmad/nerdguyahmad/blob/main/image/banner.png" width="900" height="300">
-  </p>
-  <p align="center">
     <img src=https://shields.io/badge/Skill-Python_(Decent)-blue>
     <img src=https://shields.io/badge/Skill-Javascript_(Intermediate)-yellow>
     <img src=https://shields.io/badge/Skill-Web_Developer_(Intermediate)-green>
